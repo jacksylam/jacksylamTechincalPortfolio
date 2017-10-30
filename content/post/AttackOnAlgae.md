@@ -13,4 +13,6 @@ This was a group project involving computer scientists, animators, and marine bi
 
 Our exhibit allowed participants to use a Microsoft Kinect to interact with the narrator and control a underwater vacuum to clean coral reefs. The narrator would show the participant what types of marine sea creatures help the coral reefs and explain why an excess of algae is harmful for the environment.
 
+I developed the Kinect gesture controls for the exhibit. The exhibit is able to recognize waving, swiping, and various motions using both hands.
+
 The GitHub for the project can be found at https://github.com/Pegacorn-Productions/AttackOnAlgae

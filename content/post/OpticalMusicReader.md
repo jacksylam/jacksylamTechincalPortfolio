@@ -16,6 +16,8 @@ Utilizing OpenCV, we built our system to recognize staff lines and notes in musi
 
 Our system was also able to handle a moderate amount of noise in regards to scanned music sheets to allow proper detection. In addition, the system is able to output a computer generated music sheet after performing OMR on the scanned music sheets.
 
+I developed the system used to detect the different notes and their pitch.
+
 ![Staff Lines Removed](/img/OpticalMusicReader.jpg)
 
 More information can be found at our GitHub at https://github.com/christophertfoo/OpticalMusicReader

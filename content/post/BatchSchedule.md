@@ -16,6 +16,8 @@ Our system simulates a compute cluster of available nodes and will allocate no
 
 The algorithms we investigated were First-In-First-Out, Backfill, EASY, Shortest Processing Time First, Largest Processing Time First, Random, and Balanced Spiral Backfill. The metrics we used to evaluate the various algorithms include wait time, slowdown, and sparsity.
 
+I researched, implemented, and tested the algorithms used in this project.
+
 ![](/img/batchschedule.jpg)
 
 
